@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<script src="JS/Audio.js"></script>
+		<script src="JS/Game.js"></script>
+		<script src="JS/Script.js"></script>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="Img/styles.css">
+	</head>
+	<body style="background-image: url('Img/Main.png')">
+		<h2>Chose which age to play</h2>
+		<button onclick="start('load');">Load game</button><br>
+		<button onclick="start('doc');">Dawn of Civilization</button><br>
+		<button onclick="start('aok');">Age of Kings</button><br>
+		<button onclick="start('da');">Dark Age</button>
+
+		<br><br><div><ul id="playerlist" onload="listplayers();"></ul></div>
+		<textarea id="load"></textarea>
+	</body>
+</html>

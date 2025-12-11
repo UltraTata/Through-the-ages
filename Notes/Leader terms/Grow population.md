@@ -1,0 +1,3 @@
+Refers to adding [[Population|population]] belonging to the [[Nation|nation]] to any owned [[Territory|territory]] according to the population growth modifiers. By default, a [[Nation|nation]] has 0 population growth.
+
+Each territory has a **Maximum population growth** value which by default is equal to population growth minus the population of said territory. During a population growth event, no territory can earn more population than its maximum population growth value unless it comes with the label "Ignore maximum population growth".

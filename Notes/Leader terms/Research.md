@@ -1,0 +1,1 @@
+Refers to choosing a [[Technology|technology]] from the technology tree, spending the necessary [[Coins|marble]] and adding it to your knowledge.

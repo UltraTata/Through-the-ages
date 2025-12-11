@@ -1,0 +1,1 @@
+Refers to choosing a [[Law|law]] from the law pool, spending the necessary [[Coins|jade]] and adding it to your code.

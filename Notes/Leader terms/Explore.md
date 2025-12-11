@@ -1,0 +1,1 @@
+Refers to adding an empty territory without population randomly pulled from the [[Territory|territory]] deck.

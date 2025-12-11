@@ -1,0 +1,1 @@
+Refers to choosing a [[Heritage|heritage]] from the heritage pool, spending the necessary [[Coins|coins]] and adding it to your culture.

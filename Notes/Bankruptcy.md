@@ -1,0 +1,3 @@
+Instead of a drawing a [[Leader|leader]] card, a player may chose to declare bankruptcy. Doing so will result in the loss of all [[Territory|territories]] under their control, the loss of all their [[Coins|coins]] (if they were on the negatives, they reset back to 0), the loss of all their [[Technology|technologies]] and [[Law|laws]]. The bankrupt nation will receive 3 brand new territories with 1 [[Population|population]] each.
+
+The lost territories will be held by no nation. They will conserve their buildings and population. Any nation may conquer them.

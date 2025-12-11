@@ -1,0 +1,1 @@
+Achievements are objectives that, when fulfilled, give the player some reward. Age achievements are for all players to fulfill. When one does, it is claimed and no longer available to the rest. National objectives are only available to one [[Nation|nation]].

@@ -1,0 +1,6 @@
+- Each player chooses a [[Civilization|civilization]]
+- Give 3 random [[Territory|territories]] from the deck to each player
+- Add 1 [[Population|population]] belonging to its controller to each territory
+- Display the [[Achievement|achievement]], [[Building|building]], [[Technology|technology]], [[Law|law]], [[Heritage|heritage]], etc. pools corresponding to the [[Dawn of Civilization]]
+- Form the [[Leader|leader]] deck of each player
+- Start the game

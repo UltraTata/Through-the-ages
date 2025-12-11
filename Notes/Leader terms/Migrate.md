@@ -1,0 +1,1 @@
+Refers to moving [[Population|population]] from one [[Territory|territory]] to another.

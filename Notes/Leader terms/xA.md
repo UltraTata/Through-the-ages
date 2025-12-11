@@ -1,0 +1,1 @@
+xA is the abbreviation of "times age" which means that the given multiplier scales with the ages past after the heritage is adopted. A will be equal to 1 during the age in which the heritage was adopted, the next its value will be 2, etc.

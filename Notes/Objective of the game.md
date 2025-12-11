@@ -1,0 +1,1 @@
+The objective of the game is to have the highest score at the end of the [[Age of Empires]]. Each age ends one a certain [[Achievement|achievement]] (The [[Age objectives|age objective]]) is reached by any player. This player earn 1 score.

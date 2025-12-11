@@ -1,0 +1,1 @@
+Technologies are pieces of knowledge that greatly help your [[Nation|nation]]. They are [[/Leader terms/Research|unlocked]] by spending [[Coins|marble]]. 

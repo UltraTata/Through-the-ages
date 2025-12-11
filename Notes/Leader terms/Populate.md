@@ -1,0 +1,1 @@
+Refers to adding 1 [[Population|population]] belonging to the [[Nation|nation]] in a [[Territory|territory]] with 0 population.
